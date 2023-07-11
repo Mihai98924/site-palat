@@ -1,0 +1,32 @@
+<ul id="header-menu">
+                    <li id="principal"><a href="../index.php" id="colorb">Acasă</a></li>
+                    <li id="principal"><a id="colorb">Secția Tehnico-Științifică <i class="fa fa-caret-down"></i></a>
+                        <ul class="menu">
+                            <li><a href="sectia_tehnico-stiintifica/info.php">Informatică</a></li>
+                            <li><a href="sectia_tehnico-stiintifica/electronica.php">Electronică</a></li>
+                            <li><a href="sectia_tehnico-stiintifica/aero.php">Aeromodele / LEGO</a></li>
+                            <li><a href="sectia_tehnico-stiintifica/agro.php">Agrobiologie</a></li>
+                        </ul>
+                    </li>
+                    <li id="principal"><a id="colorb">Secția Cultural-Artistică <i class="fa fa-caret-down"></i></a>
+                        <ul class="menu">
+                            <li><a href="sectia_cultural-artistica/desen.php">Pictură / Desen</a></li>
+                            <li><a href="sectia_cultural-artistica/literatura.php">Creație literară / Teatru</a></li>
+                            <li><a href="sectia_cultural-artistica/teatru.php">Teatru</a></li>
+                            <li><a href="sectia_cultural-artistica/popular.php">Dansuri populare</a></li>
+                            <li><a href="sectia_cultural-artistica/engleza.php">Engleză interactivă</a></li>
+                            <li><a href="sectia_cultural-artistica/germana.php">ABC-ul limbii germane</a></li>
+                            <li><a href="sectia_cultural-artistica/italiana.php">Italiana creativă</a></li>
+                        </ul>
+                    </li>
+                    <li id="principal"><a id="colorb">Secția Sportiv-Turistică <i class="fa fa-caret-down"></i></a>
+                        <ul class="menu">
+                            <li><a href="sectia_sportiva/dans.php">Dans modern</a></li>
+                            <li><a href="sectia_sportiva/navo.php">Navomodele</a></li>
+                            <li><a href="sectia_sportiva/tenis.php">Tenis de masă</a></li>
+                            <li><a href="pagini/sectia_sportiva/go.php">GO</a></li>
+                            <li><a href="sectia_sportiva/turism.php">Turismul explorator prin viață</a></li>
+                        </ul>
+                    </li>
+                    <li id="principal"><a href="contact.php" id="colorb">Contact</a></li>
+</ul>

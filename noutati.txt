@@ -1,0 +1,10 @@
+<p><a href="pagini/management/management.php">Management</a></p>
+<p>Oferta educationala</p>
+<p>Orar</p>
+<p>Inscrieri</p>
+<p><a href="pagini/sectia_tehnico-stiintifica/kituri.php">kituri info</a></p>
+<p><a href="pagini/galerie.php">galerie</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeHfda4GbHLFKrRiZYcL1Py8pg1SoyCgkCmY0schAw7q0cuKQ/viewform">formular</a></p>
+<p>Proin congue sit amet arcu vel pellentesque. Phasellus nec mi viverra, posuere tellus nec, convallis enim. Vestibulum et sem at felis viverra porttitor facilisis ac lacus. Proin aliquet suscipit orci in facilisis. Proin gravida ante a tempus malesuada. Fusce dapibus, leo nec vestibulum ultricies, mauris ligula auctor ante, eget semper dolor turpis at turpis. Quisque posuere vehicula turpis, vitae feugiat risus suscipit sit amet. Curabitur massa lectus, cursus non quam non, dapibus consectetur orci. Proin tristique pellentesque nulla a ornare. Quisque auctor, ante eu bibendum gravida, lacus augue cursus nunc, eget auctor tellus sem vitae neque. Aenean sed efficitur dolor, id dictum nunc. Mauris nec massa id augue condimentum finibus non quis massa.</p>
+
+<p>Curabitur rhoncus dignissim ex, ut tristique augue ultrices a. Ut vitae accumsan justo, ac sagittis nibh. Mauris eget egestas dui, vitae luctus nibh. Aliquam vel nibh a lectus facilisis fringilla. Nullam convallis commodo urna. Vestibulum efficitur arcu quam, ut pretium nisi accumsan in. Phasellus vel vulputate sem.</p>
